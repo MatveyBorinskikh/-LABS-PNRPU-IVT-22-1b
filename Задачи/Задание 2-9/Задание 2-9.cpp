@@ -23,4 +23,4 @@ int main()
 		std::cout << '*';
 	}
 	std::cout << std::endl;
-}
+} // не работает
